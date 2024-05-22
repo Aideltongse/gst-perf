@@ -1,4 +1,4 @@
-# GstPerf
+,# GstPerf
 
 A GStreamer element to measure framerate, bitrate and CPU usage
 
